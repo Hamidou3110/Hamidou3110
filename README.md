@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/AI-%F0%9F%A4%96-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%8E-orange?style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Specialist-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Enthusiast-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Enthusiast-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Enthusiast-purple?style=for-the-badge" />
 </p>
 
