@@ -1,139 +1,134 @@
-👋 Hi, I'm Abdelhamid Boughattas
-Data Science & Digital Solutions Engineering — Double Degree (3iL Ingénieurs • ESPRIT)
+<h1 align="center">👋 Hi, I'm <strong>Abdelhamid Boughattas</strong></h1>
 
-📍 Limoges, France 
+<p align="center">
+  <b>Data Science & Digital Solutions Engineering</b><br>
+  Double Degree — 3iL Ingénieurs (France) • ESPRIT (Tunisia)
+</p>
 
-🚀 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%92%BB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-%F0%9F%A4%96-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%8E-orange?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Specialist-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Enthusiast-purple?style=for-the-badge" />
+</p>
 
-I’m a double-degree student in Data Science and Digital Engineering, passionate about:
+---
 
-data, algorithms, and AI-driven problem-solving,
+## 🚀 About Me
 
-machine learning, deep learning, and NLP,
+I’m a double-degree engineer specializing in **Data Science, Artificial Intelligence, and Digital Solutions**.
 
-building impactful digital solutions,
+I love:
+- Turning data into real insights  
+- Building impactful digital products  
+- Designing ML, deep learning & NLP solutions  
+- Working on meaningful, human-centered AI  
 
-and transforming real-world challenges into intelligent systems.
+Curious, autonomous, and always improving — I thrive in projects where tech meets real-world impact.
 
-Curious, autonomous, and always eager to learn, I enjoy turning ideas into concrete, valuable projects—whether it’s an empathic chatbot, a medical AI system, or an intelligent intrusion detection model.
+---
 
-🧠 Technical Skills
-Programming & Development
+## 🧠 Technical Skills
 
-Python, Java, Symfony, R
+### 💻 Programming
+- **Python**, Java, R  
+- .NET, SpringBoot  
+- SQL / NoSQL  
+- Symfony
 
-.NET, SpringBoot
+### 🤖 AI & Machine Learning
+- Machine Learning, Deep Learning, NLP  
+- CNN, U-Net, EfficientNet, Mask-RCNN  
+- RASA (Advanced Chatbots)
 
-SQL & NoSQL
+### ☁️ Big Data & Cloud
+- Big Data ecosystems  
+- Power BI, GCP  
+- ITIL, Agile  
+- Jira, Excel expert
 
-Data & Artificial Intelligence
+---
 
-Machine Learning, Deep Learning, NLP
+## 🏅 Certifications
 
-Statistics & Data Analysis
+- **NVIDIA DLI** — NLP with Transformers (2024)  
+- **IBM** — Big Data Engineer Mastery Award (2021)  
+- **PEEC** — Initiator (2022), Innovator (2023)  
+- **ECo-C** — Communication Skills (2022)
 
-Computer Vision (CNN, U-Net, EfficientNet…)
+---
 
-RASA (intelligent chatbots)
+## 🎓 Education
 
-Big Data, BI & Cloud
+- **3iL Ingénieurs (France)** — Master in Digital Solutions & Data  
+- **ESPRIT (Tunisia)** — Engineering Degree in Data Science  
+- **ISTIC** — Bachelor in Software Engineering  
+- **Baccalaureate** — Experimental Sciences
 
-Big Data concepts and architectures
+---
 
-Power BI, GCP
+## 💼 Experience
 
-Agile Methods, ITIL
+### 🔹 Manager — Lucky Student  
+Managed tutor teams, coordinated schedules, and ensured smooth communication with parents & students.
 
-Jira, Advanced Excel
+### 🔹 Web Developer — E-Build  
+Built intuitive web interfaces using **Symfony 5.4** to streamline task management for businesses.
 
-🏆 Certifications
+### 🔹 NLP Engineer — NABDA  
+Designed an empathic mental-health chatbot using RASA, DIET classifier & TED policy.
 
-NVIDIA Deep Learning Institute – NLP with Transformers (2024)
+### 🔹 Software Engineer — Le Moteur  
+Developed a complete HR management application for internal processes.
 
-PEEC – Label Initiator (2022), Innovator (2023)
+---
 
-IBM – Big Data Engineer Mastery Award (2021)
+## 🛠️ Featured Projects
 
-ECo-C – Communication Skills Certificate (2022)
+### 🎯 **Adaptive Mask-RCNN Object Detection**
+Remote sensing object detection  
+**Tech:** Mask-RCNN, Adam, SGD, RMSProp
 
-📚 Education
+### 🩺 **AI-Driven Lung Cancer Detection**
+Deep learning for medical imaging  
+**Models:** VGG16, InceptionV3, EfficientNetB0, U-Net
 
-🎓 3iL Ingénieurs, Limoges — Master’s Degree in Digital Solutions & Data Management (2024 – Present)
+### 🔐 **Intrusion Detection System**
+Network attack detection using ML  
+**Models:** SVM, RF, NB, KNN, MLP, DT
 
-🎓 ESPRIT, Tunisia — Engineering Degree in Data Science (Double Degree)
+### 🤖 **Serenity — Humanized Mental-Health Chatbot**
+Empathic chatbot with advanced NLP  
+**Tech:** RASA, DIET, NLU, Interactive Learning
 
-🎓 ISTIC — Bachelor’s Degree in Software Engineering & Information Systems
+---
 
-🎓 Baccalaureate — Experimental Sciences
+## 🎨 Interests
+- Painting & drawing  
+- Swimming  
+- Entrepreneurship  
+- AI for social impact  
 
-💼 Professional Experience
-🔹 Team Manager – Lucky Student (2023–2024)
+---
 
-Managed tutor teams, scheduled sessions, and ensured smooth communication with parents and students
+## 📫 Contact
 
-Developed coordination, leadership, and operational management skills
+<p align="left">
+📞 07 59 54 34 38  
+<br>
+📧 <a href="mailto:abdelhamidboughattas@gmail.com">abdelhamidboughattas@gmail.com</a>  
+<br>
+🔗 <a href="https://www.linkedin.com/in/abdelhamid-boughattas">LinkedIn Profile</a>  
+</p>
 
-🔹 Web Development Intern – E-Build (2023)
+---
 
-Built intuitive web interfaces using Symfony 5.4
+## ⭐ Fun Fact  
+I balance deep learning with hours of drawing — the perfect mix of logic and creativity!
 
-Improved business task management through modern UI/UX
+---
 
-🔹 Final-Year Project Intern – NABDA (2022)
-
-Designed an empathic mental-health chatbot using RASA
-
-Worked on NLP, NLU, DIET Classifier, and TED Policy to deliver human-like interactions
-
-🔹 Software Engineering Intern – Le Moteur (2021)
-
-Developed an internal HR management system
-
-Automated certificates and leave request processes
-
-🛠️ Technical Projects
-🔥 Object Detection with Adaptive Mask-RCNN
-
-Detection of objects in optical remote-sensing images
-➡️ Mask-RCNN, Adam, SGD, RMSProp, NWPUVHR-10 dataset
-
-🩺 AI-Based Lung Cancer Detection System
-
-CNN, U-Net, EfficientNetB0, VGG16, InceptionV3
-➡️ Advanced medical imaging diagnosis using deep learning
-
-🔐 Network Intrusion Detection (NSL-KDD)
-
-➡️ SVM, Random Forest, Naive Bayes, MLP, KNN, Decision Tree
-Modeling and analyzing network attack signatures
-
-🤖 Serenity – Humanized Mental Health Chatbot
-
-➡️ RASA, NLP, Interactive Learning
-Detects emotions and provides supportive, empathetic responses
-
-🛡️ IT Service Management Project (SLA • PRA/PCA)
-
-Score: ★★★★★
-➡️ Defined SLA, recovery plans, risk analysis & service continuity strategies
-
-🎨 Interests
-
-Painting & Drawing (artistic expression)
-
-Swimming (performance & endurance)
-
-Entrepreneurship & innovation
-
-AI for social impact
-
-📫 Contact
-
-📞 07 59 54 34 38
-📧 abdelhamidboughattas@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/abdelhamid-boughattas
-
-⭐ Fun Fact
-
-I balance deep learning models with hours of drawing — a perfect mix between creativity and logic.
+<p align="center">🧡 Thanks for visiting my GitHub! Feel free to explore my projects.</p>
